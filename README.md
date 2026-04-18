@@ -1,5 +1,3 @@
-## Hi there! 👋 I'm Alina Miller 🌟
-
 I’m a **Web Developer** who likes **coding, coffee ☕, and chaos ✨**  
 I build **cool websites**, explore **Web 3.0**, and occasionally talk to my code 😅  
 
